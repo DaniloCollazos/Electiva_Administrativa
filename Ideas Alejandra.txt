@@ -1,0 +1,2 @@
+* Aplicaciones difíciles de entender para personas que no tienen conocimientos tecnológicos: Algunos sistemas pueden funcionar correctamente, pero a los usuarios les puede resultar complejos. 
+* Pocas herramientas tecnológicas de apoyo para personas con discapacidad auditiva: Existe una oferta limitada de herramientas que faciliten su comunicación.
