@@ -1,0 +1,3 @@
+1. La ingeniería social genera brechas criticas que facilitan ataques masivos, ya que el personal entrega accesos críticos y credenciales al caer en engaños telefónicos, mensajes y correos.
+2. La baja conectividad en las zonas rurales no cuentan con tendido de fibra óptica ni torres móviles por los altos costos de despliegues.
+3. Problema en la calidad de los datos, ya que, las empresas recopilan enormes volúmenes de información en diferentes sistemas que no se comunican entre sí.
